@@ -9,7 +9,7 @@ SETUP PROCESS:
 install the requests and hentai libraries via pip
 commands:
 
-pip install requests 
+pip install requests\n
 pip install hentai
 
 MAKE SURE YOU INSTALL THESE LIBRARIES FOR PYTHON 3.9.0
