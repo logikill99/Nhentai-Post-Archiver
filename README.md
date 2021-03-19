@@ -1,4 +1,4 @@
-# Nhentai-English-Post-Archiver
+# Nhentai-Post-Archiver
 basically just downloads doujins marked English from the Nhentai API downloads them to the folder it is in and makes a list in a text document as to their tag numbers
 
 (Can only check for and exclude one tag)
